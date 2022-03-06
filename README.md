@@ -7,7 +7,7 @@ You can reach me on Twitter (@ogunjosam)
 
 Read about my works here https://scholar.google.com/citations?user=agNpHOAAAAAJ&hl=en
 
-Also, i blog here ogunjosam.blogspot.com/
+Also, i blog here https://ogunjosam.blogspot.com/
 
 <!---
 A little about me.
