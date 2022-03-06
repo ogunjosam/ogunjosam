@@ -5,7 +5,10 @@ complex systems, biophysics, neurophysics, and climate science.  Occasionally, i
 
 You can reach me on Twitter (@ogunjosam) 
 
+Read about my works here https://scholar.google.com/citations?user=agNpHOAAAAAJ&hl=en
+
+Also, i blog here ogunjosam.blogspot.com/
+
 <!---
-ogunjosam/ogunjosam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+A little about me.
 --->
