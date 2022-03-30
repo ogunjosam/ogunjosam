@@ -1,7 +1,7 @@
 Welcome, you have reached the github repository of @ogunjosam.  Glad to have you here.
 
 I am a physicist with interest in theoretical and applied physics.  Applications ranges from blockchain, 
-complex systems, biophysics, neurophysics, and climate science.  Occasionally, i foray into other fields.
+complex systems, biophysics, neurophysics, and climate science.  Occasionally, i foray into other fields.  Work best with MATLAB and Python
 
 You can reach me on Twitter (@ogunjosam) 
 
