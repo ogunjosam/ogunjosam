@@ -1,6 +1,6 @@
 ## Ogunjo Samuel Toluwalope
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=https://visitor-badge.glitch.me/badge?page_id=ogunjosam.visitor-badge&left_color=green&right_color=red)  <img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=Follow%20%40ogunjosam&url=https%3A%2F%2Fwww.twitter.com%2Fogunjosam">
+![visitors](https://visitor-badge.glitch.me/badge?page_id=https://visitor-badge.glitch.me/badge?page_id=ogunjosam.visitor-badge&left_color=green&right_color=red)  ![Twitter URL](https://img.shields.io/twitter/url?label=Follow%20%40ogunjosam&style=social&url=https%3A%2F%2Fwww.twitter.com%2F%40ogunjosam)
 
 <div id="badges">
   <a href="your-linkedin-URL">
