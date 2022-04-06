@@ -1,20 +1,9 @@
 ## Ogunjo Samuel Toluwalope
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=https://visitor-badge.glitch.me/badge?page_id=ogunjosam.visitor-badge&left_color=green&right_color=red) 
-
-![Twitter Follow](https://img.shields.io/twitter/follow/ogunjosam?style=social)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=https://visitor-badge.glitch.me/badge?page_id=ogunjosam.visitor-badge&left_color=green&right_color=red) ![Twitter Follow](https://img.shields.io/twitter/follow/ogunjosam?style=social)
 
 
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="https://twitter.com/ogunjosam">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
+ 
 
 Welcome, you have reached the github repository of @ogunjosam.  Glad to have you here.
 
