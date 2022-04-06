@@ -2,9 +2,7 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://visitor-badge.glitch.me/badge?page_id=ogunjosam.visitor-badge&left_color=green&right_color=red) 
 
-![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Ftwitter.com%2Fogunjosam)
-
-![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com)
+![Twitter Follow](https://img.shields.io/twitter/follow/ogunjosam?style=social)
 
 
   <a href="your-linkedin-URL">
