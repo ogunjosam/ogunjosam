@@ -14,11 +14,15 @@ Welcome, you have reached the github repository of @ogunjosam.  Glad to have you
 I am a physicist with interest in theoretical and applied physics.  Applications ranges from blockchain, 
 complex systems, biophysics, neurophysics, and climate science.  Occasionally, i foray into other fields.  Work best with MATLAB and Python
 
-You can reach me on Twitter (@ogunjosam) 
 
 Read about my works here https://scholar.google.com/citations?user=agNpHOAAAAAJ&hl=en
 
+
+
 Also, i blog here https://ogunjosam.blogspot.com/
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ogunjosam&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 A little about me.
