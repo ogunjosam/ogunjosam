@@ -27,5 +27,5 @@ Also, i blog here https://ogunjosam.blogspot.com/
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ogunjosam&count_private=true&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogunjosam&layout=compact" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogunjosam&layout=compact" />
 </a>
