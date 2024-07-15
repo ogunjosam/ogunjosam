@@ -19,7 +19,7 @@ Read about my works here https://scholar.google.com/citations?user=agNpHOAAAAAJ&
 
 
 
-Also, i blog here https://ogunjosam.blogspot.com/
+Also, I blog here https://ogunjosam.blogspot.com/
 
 ## 
 
